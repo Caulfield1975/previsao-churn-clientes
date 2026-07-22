@@ -30,7 +30,7 @@ Este projeto aplica técnicas de **Machine Learning** para prever o risco de can
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SeuUsuario/previsao-churn-clientes.git](https://github.com/SeuUsuario/previsao-churn-clientes.git)
+   git clone https://github.com/Caulfield1975/previsao-churn-clientes.git
    ```
 
 2. **Instale as dependências:**
